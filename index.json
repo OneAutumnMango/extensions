@@ -12,7 +12,8 @@
         "name": "Atelier Witch",
         "lang": "en",
         "id": "2295703554896604160",
-        "baseUrl": "https://w2.atelierwitch.com"
+        "baseUrl": "https://w2.atelierwitch.com",
+        "versionId": "1"
       }
     ]
   }
